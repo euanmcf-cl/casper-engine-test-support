@@ -58,10 +58,10 @@ No changes.
 
 
 [Keep a Changelog]: https://keepachangelog.com/en/1.0.0
-[unreleased]: https://github.com/casper-network/casper-node/compare/v1.3.0...dev
-[1.3.0]: https://github.com/casper-network/casper-node/compare/v1.2.0...v1.3.0
-[1.2.0]: https://github.com/casper-network/casper-node/compare/v1.1.1...v1.2.0
-[1.1.1]: https://github.com/casper-network/casper-node/compare/v1.0.1...v1.1.1
-[1.1.0]: https://github.com/casper-network/casper-node/compare/v1.0.1...v1.1.1
-[1.0.1]: https://github.com/casper-network/casper-node/compare/v1.0.0...v1.0.1
-[1.0.0]: https://github.com/casper-network/casper-node/releases/tag/v1.0.0
+[unreleased]: https://github.com/casper-ecosystem/casper-engine-test-support/compare/v1.3.0...dev
+[1.3.0]: https://github.com/casper-ecosystem/casper-engine-test-support/compare/v1.2.0...v1.3.0
+[1.2.0]: https://github.com/casper-ecosystem/casper-engine-test-support/compare/v1.1.1...v1.2.0
+[1.1.1]: https://github.com/casper-ecosystem/casper-engine-test-support/compare/v1.0.1...v1.1.1
+[1.1.0]: https://github.com/casper-ecosystem/casper-engine-test-support/compare/v1.0.1...v1.1.1
+[1.0.1]: https://github.com/casper-ecosystem/casper-engine-test-support/compare/v1.0.0...v1.0.1
+[1.0.0]: https://github.com/casper-ecosystem/casper-engine-test-support/releases/tag/v1.0.0
