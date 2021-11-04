@@ -15,6 +15,16 @@ All notable changes to this project will be documented in this file.  The format
 
 
 
+## [2.0.1] - 2021-11-4
+
+### Changed
+* Change the path detection logic for compiled Wasm as used by the casper-node monorepo.
+
+### Deprecated
+* Deprecate the `test-support` feature.  It had and continues to have no effect when enabled.
+
+
+
 ## [2.0.0] - 2021-11-01
 
 ### Added
@@ -91,7 +101,8 @@ No changes.
 
 
 [Keep a Changelog]: https://keepachangelog.com/en/1.0.0
-[unreleased]: https://github.com/casper-ecosystem/casper-engine-test-support/compare/v2.0.0...main
+[unreleased]: https://github.com/casper-ecosystem/casper-engine-test-support/compare/v2.0.1...main
+[2.0.1]: https://github.com/casper-ecosystem/casper-engine-test-support/compare/v2.0.0...v2.0.1
 [2.0.0]: https://github.com/casper-ecosystem/casper-engine-test-support/compare/v1.4.0...v2.0.0
 [1.4.0]: https://github.com/casper-ecosystem/casper-engine-test-support/compare/v1.3.0...v1.4.0
 [1.3.0]: https://github.com/casper-ecosystem/casper-engine-test-support/compare/v1.2.0...v1.3.0
